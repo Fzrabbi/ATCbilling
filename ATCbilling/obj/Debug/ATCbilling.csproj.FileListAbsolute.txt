@@ -1,0 +1,69 @@
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.manifest
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\bin\Debug\ATCbilling.application
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\bin\Debug\ATCbilling.pdb
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form1.resources
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Properties.Resources.resources
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csproj.GenerateResource.Cache
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\RdlCompile.cache
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\RdlCompile.compiled
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe.manifest
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.application
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+C:\Users\#0#1Fz_0^1\Documents\Visual Studio 2012\Projects\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+E:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+E:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+E:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csprojResolveAssemblyReference.cache
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form1.resources
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Properties.Resources.resources
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csproj.GenerateResource.Cache
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\RdlCompile.cache
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\RdlCompile.compiled
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.manifest
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.application
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.pdb
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe.manifest
+D:\Projects\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.application
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.manifest
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.application
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\bin\Debug\ATCbilling.pdb
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form1.resources
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Properties.Resources.resources
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csproj.GenerateResource.Cache
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\RdlCompile.cache
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\RdlCompile.compiled
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe.manifest
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.application
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form2.resources
+D:\project\ATCbilling-20180712T041656Z-001\ATCbilling\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form3.resources
+C:\Users\Frabbi\Desktop\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+C:\Users\Frabbi\Desktop\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+C:\Users\Frabbi\Desktop\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+C:\Users\Frabbi\Desktop\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csprojResolveAssemblyReference.cache
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.config
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe.manifest
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.application
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.exe
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\bin\Debug\ATCbilling.pdb
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form1.resources
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form2.resources
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Form3.resources
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.Properties.Resources.resources
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csproj.GenerateResource.Cache
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\RdlCompile.cache
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\RdlCompile.compiled
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe.manifest
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.application
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.exe
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.pdb
+D:\project\ATCbilling-20180830T045709Z-001\ATCbilling\ATCbilling\obj\Debug\ATCbilling.csprojResolveAssemblyReference.cache
